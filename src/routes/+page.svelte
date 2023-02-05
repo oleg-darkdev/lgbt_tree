@@ -125,6 +125,9 @@
 		<p>Zrobione podczas GameJam 2023</p>
 		<h2>artysta Oleg DarkDev</h2>
 		<!-- <ImageGallery /> -->
+		<a href="https://globalgamejam.org/2023/games/korzenie-lgbt-3" target="_blank" class="link">
+			Wspieraj projekt
+		</a>
 		<br /><br /><br /><br />
 	</div>
 </section>
@@ -137,7 +140,23 @@
 		margin: 0;
 		font-family: 'Mochiy Pop One', sans-serif;
 	}
+	.link {
+		display: inline-block;
+		font-size: 1.1em;
+		color: #333333;
+		background: #f87272;
+		padding: 10px;
+		border-radius: 4px;
+		text-decoration: none;
+		font-weight: 700;
+		margin-top: 20px;
+	}
 
+	.link:hover {
+		background: #ffcf4d;
+		border: 1px solid rgba(255, 0, 88, 0.4);
+		box-shadow: 0 1px 15px rgba(1, 1, 1, 0.2);
+	}
 	.wrap {
 		display: flex;
 		justify-content: center;

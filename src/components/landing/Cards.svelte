@@ -25,6 +25,9 @@
 			<p style="text-align: center;">
 				Zebrane flag społeczności LGBTQIA+ ze szczegółowymi informacjami.
 			</p>
+			<a style="width: 100%; text-align: center;" href="https://globalgamejam.org/2023/games/korzenie-lgbt-3" target="_blank">
+				Wspieraj projekt
+			</a>
 			<!-- <a href="#">Read More</a> -->
 		</div>
 	</div>
@@ -215,8 +218,8 @@
 	.container .box .content a {
 		display: inline-block;
 		font-size: 1.1em;
-		color: #111;
-		background: #fff;
+		color: #333333;
+		background: #f87272;
 		padding: 10px;
 		border-radius: 4px;
 		text-decoration: none;
