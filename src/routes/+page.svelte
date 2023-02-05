@@ -144,7 +144,7 @@
 		display: inline-block;
 		font-size: 1.1em;
 		color: #333333;
-		background: #f87272;
+		background: #36d399;
 		padding: 10px;
 		border-radius: 4px;
 		text-decoration: none;
