@@ -22,7 +22,9 @@
 		<span />
 		<div class="content">
 			<h2 style="text-align: center; font-size: 6em;" id="progects">74</h2>
-			<p style="text-align: center;">Zebrane flag społeczności LGBTQIA+ ze szczegółowymi informacjami.</p>
+			<p style="text-align: center;">
+				Zebrane flag społeczności LGBTQIA+ ze szczegółowymi informacjami.
+			</p>
 			<!-- <a href="#">Read More</a> -->
 		</div>
 	</div>
@@ -31,7 +33,7 @@
 		<div class="content">
 			<h2>Grywalizacja</h2>
 			<p>
-				Aplikacja i gra planszowa przeznaczony do edukacji, przydatny podczas warsztatów oraz
+				Aplikacja i gra planszowa przeznaczone do edukacji, przydatny podczas warsztatów oraz
 				spotkań towarzyskich.
 			</p>
 			<!-- <a href="#">Read More</a> -->

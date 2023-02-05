@@ -7,18 +7,18 @@
 	let dataPinkSection = [
 		{
 			title: 'Cel projektu',
-			description: `jest sprawienie, aby pierwsze wprowadzenie do społeczności LGBTQIA+ było dla gracze jak
-					najciekawsze. Ten cel zostanie osiągnięty poprzez edukacyjnej gry planszowej oraz
+			description: `jest sprawienie, aby pierwsze wprowadzenie do społeczności LGBTQIA+ było dla graczy jak
+					najciekawsze. Ten cel zostanie osiągnięty za pomocą edukacyjnej gry planszowej oraz
 					aplikacji internetowej.`
 		},
 		{
 			title: 'Cel gry planszowej',
 			description: `jest poinformowanie społeczności w zabawny sposób o tym, jak rozwijała się społeczność
-					LGBTQIA+, jaka jest jej historia i jakich flagow używa.`
+					LGBTQIA+, jaka jest jej historia i jakich flagużywa.`
 		},
 		{
 			title: 'Problem',
-			description: `na które staram się wpływać: stereotypowe postrzeganie społeczności LGBTQIA+ - jego
+			description: `na który staram się wpływać: stereotypowe postrzeganie społeczności LGBTQIA+ - jego
 					historia i filozofia. Wiele osób jest po prostu wyobcowanych ze społeczności LGBTQIA+ i
 					nie wie jak zrobić pierwszy krok w kierunku jej poznania - proponuję zacząć od gry
 					planszowej.`
@@ -78,7 +78,7 @@
 		style="display: flex; align-items: center; flex-direction: column; margin-bottom: 60px;"
 	>
 		<h2 style="max-width: 560px; text-align: center;">
-			Interakcja pomiędzy aplikacją a grą planszową poprzez NFC
+			Interakcja pomiędzy aplikacją a grą planszową za pomocą NFC
 		</h2>
 		<iframe
 			style="border-radius: 2%;"
