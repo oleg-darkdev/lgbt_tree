@@ -85,7 +85,7 @@ const element = {
 	},
 
 	img: 'https://raw.githubusercontent.com/oleg-darkdev/dd/deploy/static/img/apps/lgbt/flags/aromantic.png',
-	shortDescription: `Aromantic, often shortened to aro, describes people who do not experience romantic attraction, or if not strictly aromantic, little to no romantic attraction. One of the meanings of the A in LGBTQIA+ is Aromantic. Aromanticism is a romantic orientation and may involve forms of attraction that are not necessarily romantic, or interests in relationships that are intimate in other ways. There is no singular experience of aromanticism.`,
+	shortDescription: `Aromantic, often shortened to aro, describes people who do not experience romantic attraction, or if not strictly aromantic, little to no romantic attraction. One of the meanings of the A in LGBTQ2S+ is Aromantic. Aromanticism is a romantic orientation and may involve forms of attraction that are not necessarily romantic, or interests in relationships that are intimate in other ways. There is no singular experience of aromanticism.`,
 	number: 58
 };
 

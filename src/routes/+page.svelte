@@ -7,19 +7,19 @@
 	let dataPinkSection = [
 		{
 			title: 'Cel projektu',
-			description: `jest sprawienie, aby pierwsze wprowadzenie do społeczności LGBTQIA+ było dla graczy jak
+			description: `jest sprawienie, aby pierwsze wprowadzenie do społeczności LGBTQ2S+ było dla graczy jak
 					najciekawsze. Ten cel zostanie osiągnięty za pomocą edukacyjnej gry planszowej oraz
 					aplikacji internetowej.`
 		},
 		{
 			title: 'Cel gry planszowej',
 			description: `jest poinformowanie społeczności w zabawny sposób o tym, jak rozwijała się społeczność
-					LGBTQIA+, jaka jest jej historia i jakich flagużywa.`
+					LGBTQ2S+, jaka jest jej historia i jakich flagużywa.`
 		},
 		{
 			title: 'Problem',
-			description: `na który staram się wpływać: stereotypowe postrzeganie społeczności LGBTQIA+ - jego
-					historia i filozofia. Wiele osób jest po prostu wyobcowanych ze społeczności LGBTQIA+ i
+			description: `na który staram się wpływać: stereotypowe postrzeganie społeczności LGBTQ2S+ - jego
+					historia i filozofia. Wiele osób jest po prostu wyobcowanych ze społeczności LGBTQ2S+ i
 					nie wie jak zrobić pierwszy krok w kierunku jej poznania - proponuję zacząć od gry
 					planszowej.`
 		}
@@ -46,7 +46,7 @@
 				<a href="#" data-text="&nbsp;Flag">&nbsp;Flag&nbsp;</a>
 			</li>
 			<li style="--clr:#ffdd1c">
-				<a href="#" data-text="&nbsp;LGBTQIA+">&nbsp;LGBTQIA+&nbsp;</a>
+				<a href="#" data-text="&nbsp;LGBTQ2S+">&nbsp;LGBTQ2S+&nbsp;</a>
 			</li>
 		</ul>
 	</div>

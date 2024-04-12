@@ -59,7 +59,7 @@ const element = {
 		spectrumOrUmbrella: ['']
 	},
 	relatedTerms: {
-		differentFrom: ['LGBTQIA+'],
+		differentFrom: ['LGBTQ2S+'],
 		associatedRomanticism: ['']
 	},
 	shortDescription: `MOGAI is an acronym for Marginalized Orientations, Gender Alignment, and Intersex. MOGAI is an umbrella term for people who are not cisgender and/or heterosexual.`,

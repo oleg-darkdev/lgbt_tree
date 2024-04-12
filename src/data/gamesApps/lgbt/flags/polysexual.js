@@ -47,7 +47,7 @@ const element = {
 		{
 			name: 'Old Dominian University: "Queer 101". ',
 			link: 'https://www.odu.edu/life/support/wgec/lgbt',
-			source: 'Old Dominian University - LGBTQIA+ Initiatives.'
+			source: 'Old Dominian University - LGBTQ2S+ Initiatives.'
 		},
 		{
 			name: '',

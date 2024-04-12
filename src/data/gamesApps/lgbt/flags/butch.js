@@ -67,7 +67,7 @@ const element = {
 			source: 'The A-Z of Gender and Sexuality: From Ace to Ze.'
 		},
 		{
-			name: `The Queens' English: The LGBTQIA+ Dictionary of Lingo and Colloquial Phrases.`,
+			name: `The Queens' English: The LGBTQ2S+ Dictionary of Lingo and Colloquial Phrases.`,
 			link: '',
 			source: 'Davis, Chloe O. /  Clarkson Potter/Publishers, 2021.'
 		},
@@ -112,7 +112,7 @@ const element = {
 	},
 
 	img: 'https://raw.githubusercontent.com/oleg-darkdev/dd/deploy/static/img/apps/lgbt/flags/butch.png',
-	shortDescription: `Butch is an identity within the LGBTQIA+ community of some people whose outward gender expression matches their culture's understanding of masculinity. Most often, butches take on masculine roles and careers that are typically designated to men within their culture and time period. Butch originally referred to a style and gender role performed by masculine lesbians, and is still often associated with the lesbian community, but its usage and meaning have expanded and are not exclusive to lesbians. In current usage, butch sometimes refers to a particular non-binary gender identity.`,
+	shortDescription: `Butch is an identity within the LGBTQ2S+ community of some people whose outward gender expression matches their culture's understanding of masculinity. Most often, butches take on masculine roles and careers that are typically designated to men within their culture and time period. Butch originally referred to a style and gender role performed by masculine lesbians, and is still often associated with the lesbian community, but its usage and meaning have expanded and are not exclusive to lesbians. In current usage, butch sometimes refers to a particular non-binary gender identity.`,
 	number: 25
 };
 

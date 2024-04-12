@@ -13,11 +13,11 @@
 		<span />
 		<div class="content">
 			<h2>
-				Online biblioteka flag spolecznosci LGBTQIA+ jako dodatek do gry planszowej oraz w pełni
+				Online biblioteka flag spolecznosci LGBTQ2S+ jako dodatek do gry planszowej oraz w pełni
 				niezależna aplikację.
 			</h2>
 			<!-- <p style="max-width: 340px;">
-				Online biblioteka flag spolecznosci LGBTQIA+, ze szczególowymi informacjami jako dodatek do gry
+				Online biblioteka flag spolecznosci LGBTQ2S+, ze szczególowymi informacjami jako dodatek do gry
 				planszowej.
 			</p> -->
 			<a href="/app" target="_blank" id="testbutton" />

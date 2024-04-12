@@ -6,7 +6,7 @@ const element = {
 	name: 'Two spirit',
 	category: [сategories.sexualOrientation, сategories.genderIdentity, сategories.umbrellaTerm],
 	description: [
-		`While some use the term specifically as it relates to the cultural roles of individuals who embody both spirits, Two-Spirit is also used to describe Aboriginal LGBTQIA+ people. It reflects traditionally Aboriginal gender diversity, including the fluid nature of gender, sexual identity, and other identities and how it connects with spirituality.`,
+		`While some use the term specifically as it relates to the cultural roles of individuals who embody both spirits, Two-Spirit is also used to describe Aboriginal LGBTQ2S+ people. It reflects traditionally Aboriginal gender diversity, including the fluid nature of gender, sexual identity, and other identities and how it connects with spirituality.`,
 		`Two-Spirit is also an ancient teaching among Indigenous people. According to Elders' teachings, some people were gifted by carrying two spirits; that of a male and female. These members had roles in their community that were not traditionally that of their assigned gender. For example, women engaged in tribal warfare, women married women, and men married other men. Two-Spirited people were revered in the community and respected as fundamental components of these cultures and societies.`
 	],
 	flagInfo: {
@@ -20,7 +20,7 @@ const element = {
 	},
 	linkOriginalWiki: 'https://lgbtqia.fandom.com/wiki/Two-Spirit',
 	etymology: [
-		'The term Two-Spirit was proposed during the third annual international LGBT Native American gathering in 1990 in Winnipeg, Canada, by Elder Myra Laramee. It was proposed as an Indigenously defined pan-Native North American term referring to the diversity of Aboriginal LGBTQIA+ identities as well as culturally-specific non-binary gender identities. The term does not diminish the tribal-specific names, roles, and traditions that specific nations have for Two-Spirit tribal members. The Lakota name is winkte while the Navajo name is nadleeh.',
+		'The term Two-Spirit was proposed during the third annual international LGBT Native American gathering in 1990 in Winnipeg, Canada, by Elder Myra Laramee. It was proposed as an Indigenously defined pan-Native North American term referring to the diversity of Aboriginal LGBTQ2S+ identities as well as culturally-specific non-binary gender identities. The term does not diminish the tribal-specific names, roles, and traditions that specific nations have for Two-Spirit tribal members. The Lakota name is winkte while the Navajo name is nadleeh.',
 		'Sometime in the late twentieth century, non-Native anthropologists used the term berdache to identify the individuals living outside the gender role of their biological sex. It derived from the French word bardache meaning "passive homosexual" or even "male prostitutes". Bardache, in turn, derived from the Persian barda meaning "captive", "prisoner of war", or "slave". The term berdache is now considered outdated and offensive in its use.'
 	],
 	references: [
@@ -80,7 +80,7 @@ const element = {
 	},
 
 	img: 'https://raw.githubusercontent.com/oleg-darkdev/dd/deploy/static/img/apps/lgbt/flags/two_Spirit.png',
-	shortDescription: `Two-Spirit refers to a strictly Native identity that describes a person who identifies as having both a masculine and feminine spirit. It is an umbrella term used by some Indigenous people as a way to describe their sexual, gender, and/or spiritual identity. Two-Spirit is all-encompassing of LGBTQIA+ identities.`,
+	shortDescription: `Two-Spirit refers to a strictly Native identity that describes a person who identifies as having both a masculine and feminine spirit. It is an umbrella term used by some Indigenous people as a way to describe their sexual, gender, and/or spiritual identity. Two-Spirit is all-encompassing of LGBTQ2S+ identities.`,
 	number: 71
 };
 
